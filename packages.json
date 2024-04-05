@@ -4,7 +4,7 @@
     "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
     "url": "https://github.com/TileDB-Inc/TileDB-R",
     "available": true,
-    "branch": "soma/2.20.1"
+    "branch": "soma/2.21.2"
   },
   {
     "package": "tiledbsoma",

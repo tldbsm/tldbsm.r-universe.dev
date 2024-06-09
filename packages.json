@@ -19,7 +19,7 @@
         "url": "https://github.com/TileDB-Inc/TileDB-R",
         "available": true,
         //"branch": "soma/2.21.2" -- this worked via a dedicated branch
-        "branch": "*release"
+        "branch": "0.27.0"
     },
 
     {

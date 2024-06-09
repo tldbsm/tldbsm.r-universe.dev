@@ -13,14 +13,14 @@
     //   "available": true,
     //   "branch": "soma/2.21.2"
     // },
-    // {
-    //     "package": "tiledb",
-    //     "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
-    //     "url": "https://github.com/TileDB-Inc/TileDB-R",
-    //     "available": true,
-    //     //"branch": "soma/2.21.2" -- this worked via a dedicated branch
-    //     "branch": "*release"
-    // },
+    {
+        "package": "tiledb",
+        "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
+        "url": "https://github.com/TileDB-Inc/TileDB-R",
+        "available": true,
+        //"branch": "soma/2.21.2" -- this worked via a dedicated branch
+        "branch": "*release"
+    },
 
     {
         "package": "tiledbcloud",

@@ -34,7 +34,7 @@
         "maintainer": "Aaron Wolen <aaron@tiledb.com>",
         "url": "https://github.com/single-cell-data/TileDB-SOMA",
         "available": true,
-        //"branch": "*release",
+        "branch": "*release",
         "subdir": "apis/r"
     }
 
